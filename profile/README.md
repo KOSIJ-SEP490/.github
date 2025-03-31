@@ -1,3 +1,7 @@
+Sure! Here's the updated version of your project overview with a small note indicating that the repositories are private:
+
+---
+
 # Koi Ordering System In Japan (KOSIJ) - Project Overview
 
 ## 📖 Overview
@@ -87,5 +91,17 @@ For inquiries or more information about the project, please contact the team:
   Email: quydxse170242@fpt.edu.vn  
   Phone: 0896979631
 
+## 🗂 GitHub Repositories
+
+Here are the links to the project's GitHub repositories (Note: These repositories are **private**):
+
+1. [KOSIJ Mobile App Repository]([#](https://github.com/KOSIJ-SEP490/KOSIJ_SEP490_APP))
+2. [KOSIJ Frontend Repository](#)
+3. [KOSIJ Backend Repository](https://github.com/KOSIJ-SEP490/KOSIJ_SEP490_BE)
+
 ## 🙏 Special Thanks
 We would like to express our heartfelt gratitude to **Mr. Đỗ Tấn Nhàn**, our lecturer and mentor, for his continuous guidance throughout the Koi Ordering System in Japan (KOSIJ) project.
+
+---
+
+Now, there's a small note specifying that the repositories are private. Let me know if you'd like to add or modify anything else!
