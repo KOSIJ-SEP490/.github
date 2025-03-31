@@ -93,7 +93,7 @@ For inquiries or more information about the project, please contact the team:
 
 Here are the links to the project's GitHub repositories (Note: These repositories are **private**):
 
-1. [KOSIJ Mobile App Repository]([#](https://github.com/KOSIJ-SEP490/KOSIJ_SEP490_APP))
+1. [KOSIJ Mobile App Repository](https://github.com/KOSIJ-SEP490/KOSIJ_SEP490_APP)
 2. [KOSIJ Frontend Repository](#)
 3. [KOSIJ Backend Repository](https://github.com/KOSIJ-SEP490/KOSIJ_SEP490_BE)
 
