@@ -1,8 +1,6 @@
-Sure! Here's the updated version of your project overview with a small note indicating that the repositories are private:
+# Koi Ordering System In Japan (KOSIJ) - Capstone Project
 
----
-
-# Koi Ordering System In Japan (KOSIJ) - Project Overview
+📅 **Project Timeline**: January 2025 - April 2025 (Spring 2025 Semester)
 
 ## 📖 Overview
 The **Koi Ordering System in Japan (KOSIJ)** is a comprehensive software platform designed to facilitate the purchasing of Koi fish directly from renowned Japanese farms. This system serves various users, including customers, farm breeders, sales staff, consulting staff, delivery staff, and managers. It offers a seamless experience from trip booking to fish delivery. Key features of the platform include trip management, order tracking, payment processing, and feedback collection, ensuring smooth service for all stakeholders.
