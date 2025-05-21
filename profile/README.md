@@ -99,7 +99,3 @@ Here are the links to the project's GitHub repositories (Note: These repositorie
 
 ## 🙏 Special Thanks
 We would like to express our heartfelt gratitude to **Mr. Đỗ Tấn Nhàn**, our lecturer and mentor, for his continuous guidance throughout the Koi Ordering System in Japan (KOSIJ) project.
-
----
-
-Now, there's a small note specifying that the repositories are private. Let me know if you'd like to add or modify anything else!
